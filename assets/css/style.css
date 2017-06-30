@@ -1,0 +1,11 @@
+body{
+	background: url("http://images.all-free-download.com/images/graphiclarge/vector_colorful_cube_background_148808.jpg")no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.jumbotron{
+	text-align: center;
+	margin-top: 10px;
+}
